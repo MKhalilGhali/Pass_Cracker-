@@ -1,0 +1,13 @@
+[
+  {
+    "timestamp": "2025-10-06T00:17:39.166452",
+    "mode": "smart",
+    "hash_type": "auto",
+    "target_hash": "5f4dcc3b5aa765d61d8327deb882cf99",
+    "success": true,
+    "password": "password",
+    "attempts": 2,
+    "time": 0.000118255615234375,
+    "speed": 16912.516129032258
+  }
+]
